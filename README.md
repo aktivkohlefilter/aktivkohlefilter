@@ -46,6 +46,9 @@ Technologien: C#,C++, Node.js, Angular,
 Bleib mit mir in Kontakt! Du kannst mich hier erreichen:
 
 E-Mail: l.schmidt1975.ls@gmail.com 
+
 GitHub: github.com/aktivkohlefilter
+
 Danke fürs Vorbeischauen! ✨
+
 Lass uns gemeinsam großartige Projekte entwickeln 🚀
